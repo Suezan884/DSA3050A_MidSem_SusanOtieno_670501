@@ -76,3 +76,39 @@ Applied Group By with multiple aggregations
 Created business categories using nested conditional logic
 
 Extracted text before a delimiter
+
+# Dashboard Visuals Created
+
+KPI Card: Total Sales
+
+KPI Card: Total Profit
+
+KPI Card: Total Quantity Sold
+
+Bar Chart: Sales by Category
+
+Column Chart: Profit by Sub-Category
+
+Line Chart: Sales Trend Over Time
+
+Donut Chart: Sales by Segment
+
+Table Visual
+
+Matrix Visual
+
+Map Visual
+
+Treemap
+
+Stacked Bar Chart
+
+# Business Insights
+
+1. Technology was the highest-performing product category in terms of sales revenue. This suggests that customers have a strong demand for technology products, making it a key driver of the company's overall sales performance.
+
+2. Copiers generated the highest profit among all product sub-categories. Although other products may have achieved high sales volumes, copiers contributed the most to profitability, indicating strong profit margins and effective pricing strategies.
+
+3. The Consumer segment accounted for approximately 50% of total sales, making it the largest customer segment. This highlights the importance of individual consumers to the business and suggests that customer retention and targeted marketing efforts should continue to focus on this segment.
+
+
