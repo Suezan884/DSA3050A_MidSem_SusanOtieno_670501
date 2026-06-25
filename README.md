@@ -103,6 +103,12 @@ Treemap
 
 Stacked Bar Chart
 
+<img width="1749" height="754" alt="image" src="https://github.com/user-attachments/assets/f45a5c28-dad5-4755-b694-d3dd2ef20a84" />
+
+<img width="1345" height="742" alt="image" src="https://github.com/user-attachments/assets/f7e1beab-e351-484e-afa2-8f259ad75f0f" />
+
+
+
 # Business Insights
 
 1. Technology was the highest-performing product category in terms of sales revenue. This suggests that customers have a strong demand for technology products, making it a key driver of the company's overall sales performance.
