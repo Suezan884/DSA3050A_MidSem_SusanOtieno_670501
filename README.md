@@ -1,6 +1,7 @@
 # DSA3050A_MidSem_SusanOtieno_670501
 
 Name: Susan Otieno
+
 ID No: 670501
 
 # Dataset Information
@@ -19,3 +20,59 @@ Source: Kaggle
 
 # Business Problem
 The objective of this project was to analyze sales performance, profitability, customer segments, and product categories using Power BI. The raw dataset contained inconsistencies and required cleaning and transformation in Power Query before meaningful business insights could be generated. The final dashboard was designed to support decision-making by highlighting key performance indicators, sales trends, customer behavior, and regional performance.
+
+# Power Query Transformations Performed
+
+# Basic Data Cleaning
+
+Renamed unclear columns
+
+Changed data types
+
+Removed duplicate records
+
+Removed blank rows
+
+Trimmed text columns
+
+Cleaned text columns
+
+Replaced inconsistent values
+
+Removed unnecessary columns
+
+# Intermediate Transformations
+
+Split Customer Name column
+
+Merged State and Country columns
+
+Created a custom column
+
+Created a conditional column (Profit Category)
+
+Extracted Year from Order Date
+
+Extracted Quarter from Order Date
+
+Extracted Month from Order Date
+
+Extracted Day from Order Date
+
+Filtered rows using multiple conditions
+
+Sorted data
+
+Added an index column
+
+# Advanced Power Query Tasks
+
+Used Column Profiling to identify data quality issues
+
+Created a summarized query using Reference Query
+
+Applied Group By with multiple aggregations
+
+Created business categories using nested conditional logic
+
+Extracted text before a delimiter
